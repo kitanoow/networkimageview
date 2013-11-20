@@ -50,7 +50,6 @@
         }
     } else {
         self.image = image;
-        [path release];
     }
 }
 

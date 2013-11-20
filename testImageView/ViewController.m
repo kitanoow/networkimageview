@@ -25,7 +25,7 @@
     NSString *fileName = @"";
     NSString *fullName = [NSString stringWithFormat:@"%@/%@",path,fileName];
     NSString *url = @"";
-    [imageView start:url save_path:fullName];
+    
 
 }
 
